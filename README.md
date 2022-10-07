@@ -29,16 +29,6 @@ Quadro Kanban do Projeto Organizado com o Trello:https://trello.com/invite/b/HaA
 ![image](https://user-images.githubusercontent.com/76222233/194185256-e41683de-19b6-49ea-a60d-623aeb2fd2d3.png)
 ![image](https://user-images.githubusercontent.com/76222233/194185365-27eb5605-3ca9-4dd4-b745-23b4ee3f39be.png)
 
-![image](https://user-images.githubusercontent.com/76222233/194185410-9671bfc0-e5f2-433f-bcce-21ef6d4eaf12.png)
-
-
-![image](https://user-images.githubusercontent.com/76222233/194185475-614beec1-d5eb-4fee-a592-5fae636e16b3.png)
-![image](https://user-images.githubusercontent.com/76222233/194187102-2ef575e4-d871-476d-b1d2-21913e098de8.png)
-
-
-![image](https://user-images.githubusercontent.com/76222233/194187317-4e46ec12-0105-4fd8-a2b9-6382d67866ff.png)
-
-
 
 ![image](https://user-images.githubusercontent.com/76222233/194185794-29471dcc-10e6-4b63-9df7-af90a2d4e70b.png)
 
@@ -60,7 +50,10 @@ Quadro Kanban do Projeto Organizado com o Trello:https://trello.com/invite/b/HaA
 ![image](https://user-images.githubusercontent.com/76222233/194186747-0c7c9ad6-8a03-4aea-803f-27c9a71173bd.png)
 
 
-![image](https://user-images.githubusercontent.com/76222233/194187012-2bd877e5-80b4-4c67-b957-f509c0db66da.png)
+![image](https://user-images.githubusercontent.com/76222233/194187102-2ef575e4-d871-476d-b1d2-21913e098de8.png)
+
+
+![image](https://user-images.githubusercontent.com/76222233/194187317-4e46ec12-0105-4fd8-a2b9-6382d67866ff.png)
 
 
 ![image](https://user-images.githubusercontent.com/76222233/194187396-a168480e-9625-4d8b-95b9-842036fa4765.png)
